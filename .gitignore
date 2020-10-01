@@ -1,4 +1,7 @@
 *.DS_Store
 
-# Config 
-*.json
+# Node Packages
+node_modules/
+
+# ESLinter Config 
+.eslintrc.json
